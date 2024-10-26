@@ -1,8 +1,13 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="Hello World"
-        X: =40
-        Y: =40
+        Align: =Align.Center
+        FontWeight: =FontWeight.Bold
+        Height: =76
+        Size: =24
+        Text: ="Hello World - Title"
+        Width: =541
+        X: =212
+        Y: =44
         ZIndex: =1
 

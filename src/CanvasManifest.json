@@ -10,7 +10,7 @@
     "MSAppStructureVersion": "2.0"
   },
   "Properties": {
-    "AppCopilotSchemaName": null,
+    "AppCopilotSchemaName": "",
     "AppCreationSource": "AppFromScratch",
     "AppDescription": "",
     "AppPreviewFlagsMap": {
@@ -120,7 +120,7 @@
     "Id": "e4467882-e633-4238-82a9-32e84be11c54",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Testing Git",
     "OriginatingVersion": "1.343",
     "ParserErrorCount": 0,
